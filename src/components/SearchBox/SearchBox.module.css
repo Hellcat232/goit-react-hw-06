@@ -1,0 +1,10 @@
+.searching label input {
+  display: flex;
+  flex-direction: column;
+  width: 350px;
+  height: 30px;
+}
+
+.input {
+  margin-top: 10px;
+}
